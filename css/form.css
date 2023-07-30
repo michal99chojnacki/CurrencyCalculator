@@ -1,0 +1,49 @@
+
+ .form__fieldset {
+    background-color: rgb(170, 206, 206);
+
+ }
+ .form__legendText {
+    background-color: teal;
+    border: 1px solid rgb(202, 202, 202);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+
+ }
+
+ .form__labelText {
+    max-width: 700px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+
+ }
+
+ .form__field {
+    border: 1px solid rgb(215, 215, 215);
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 700px;
+    width: 100%;
+ }
+
+ .form__field2 {
+    border: 1px solid rgb(215, 215, 215);
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 100px;
+    width: 100%;
+ }
+
+ .form__button {
+    background-color: teal;
+    color: white;
+    border: none;
+    max-width: 300px;
+    width: 100%;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 10px;
+
+ }
